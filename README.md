@@ -1,4 +1,4 @@
-# EVAC
+
 The Problem: Evolve a Player for the Video Game Snake
 Snake is a classic video game where the player controls a snake moving around a grid. In
 each time-step the snake moves forward in the direction it is facing. The aim of the game is
